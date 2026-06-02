@@ -81,10 +81,10 @@ public class MohamedFaizaan {
 
 <div align="center">
   <a href="https://github.com/h3lium4u">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=h3lium4u&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=h3lium4u&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10&cache_seconds=1800"/>
   </a>
   <a href="https://github.com/h3lium4u">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h3lium4u&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h3lium4u&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10&cache_seconds=1800"/>
   </a>
 </div>
 
@@ -109,7 +109,7 @@ public class MohamedFaizaan {
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=h3lium4u&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=h3lium4u&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=4" alt="Trophies"/>
 </div>
 
 ---
@@ -190,7 +190,7 @@ public class MohamedFaizaan {
   <br/><br/>
   <i>"Build. Break. Learn. Repeat."</i>
   <br/><br/>
-  📧 <a href="mailto:h3lium4u@gmail.com">h3lium4u@gmail.com</a>
+  📧 <a href="mailto:mohamedfaizaan5779@gmail.com">mohamedfaizaan5779@gmail.com</a>
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
