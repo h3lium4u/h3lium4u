@@ -80,11 +80,11 @@ public class MohamedFaizaan {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/mohamedfaizaan5779">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=mohamedfaizaan5779&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+  <a href="https://github.com/h3lium4u">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=h3lium4u&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
   </a>
-  <a href="https://github.com/mohamedfaizaan5779">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedfaizaan5779&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+  <a href="https://github.com/h3lium4u">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h3lium4u&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
   </a>
 </div>
 
@@ -93,7 +93,7 @@ public class MohamedFaizaan {
 ## 🔥 Streak Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=mohamedfaizaan5779&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=h3lium4u&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak" />
 </div>
 
 ---
@@ -101,7 +101,7 @@ public class MohamedFaizaan {
 ## 📈 Activity Graph
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedfaizaan5779&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=h3lium4u&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph"/>
 </div>
 
 ---
@@ -109,7 +109,7 @@ public class MohamedFaizaan {
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohamedfaizaan5779&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=h3lium4u&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophies"/>
 </div>
 
 ---
@@ -140,8 +140,8 @@ public class MohamedFaizaan {
 
 | Project | Stack | Highlights |
 |---|---|---|
-| [**QuickFix** — Android Service Booking App](https://github.com/mohamedfaizaan5779) | `Java` `Android Studio` `Firebase` | Dual login for customers & workers · Subscription-based access · Real-time job posting & service tracking · End-to-end booking confirmation |
-| [**Wrong-Way Vehicle Detection & Alert System**](https://github.com/mohamedfaizaan5779) | `Python` `YOLOv8` `OpenCV` `Pandas` `Matplotlib` `SMTP` | Real-time YOLOv8 detection · Polygon zone logic · Auto email alerts with image evidence · Violation logging to Excel + analytical charts · Published at IEEE ICSADL 2025 |
+| [**QuickFix** — Android Service Booking App](https://github.com/h3lium4u) | `Java` `Android Studio` `Firebase` | Dual login for customers & workers · Subscription-based access · Real-time job posting & service tracking · End-to-end booking confirmation |
+| [**Wrong-Way Vehicle Detection & Alert System**](https://github.com/h3lium4u) | `Python` `YOLOv8` `OpenCV` `Pandas` `Matplotlib` `SMTP` | Real-time YOLOv8 detection · Polygon zone logic · Auto email alerts with image evidence · Violation logging to Excel + analytical charts · Published at IEEE ICSADL 2025 |
 
 </div>
 
@@ -186,11 +186,11 @@ public class MohamedFaizaan {
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohamedfaizaan5779&label=Profile%20Views&color=70a5fd&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=h3lium4u&label=Profile%20Views&color=70a5fd&style=flat-square" alt="Profile Views" />
   <br/><br/>
   <i>"Build. Break. Learn. Repeat."</i>
   <br/><br/>
-  📧 <a href="mailto:mohamedfaizaan5779@gmail.com">mohamedfaizaan5779@gmail.com</a>
+  📧 <a href="mailto:h3lium4u@gmail.com">h3lium4u@gmail.com</a>
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
