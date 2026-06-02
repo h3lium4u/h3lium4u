@@ -77,15 +77,23 @@ public class MohamedFaizaan {
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub At a Glance
 
 <div align="center">
-  <a href="https://github.com/h3lium4u">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=h3lium4u&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10&cache_seconds=1800"/>
-  </a>
-  <a href="https://github.com/h3lium4u">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h3lium4u&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10&cache_seconds=1800"/>
-  </a>
+
+![](https://img.shields.io/badge/Focus-Android%20%26%20Computer%20Vision-70a5fd?style=for-the-badge&labelColor=0d1117)
+![](https://img.shields.io/badge/Languages-Java%20%7C%20Python%20%7C%20HTML-bf91f3?style=for-the-badge&labelColor=0d1117)
+![](https://img.shields.io/badge/IEEE%20Publications-2-38bdae?style=for-the-badge&labelColor=0d1117)
+![](https://img.shields.io/badge/CGPA-8.94%20%2F%2010-70a5fd?style=for-the-badge&labelColor=0d1117)
+
+</div>
+
+<div align="center">
+
+| 🧑‍💻 Coding Since | 📍 Location | 🎓 Graduating | 🔭 Currently Building |
+|---|---|---|---|
+| 2022 | Tirunelveli, TN 🇮🇳 | May 2026 | QuickFix Android App |
+
 </div>
 
 ---
@@ -106,10 +114,19 @@ public class MohamedFaizaan {
 
 ---
 
-## 🏆 Trophy Wall
+## 🏆 Milestones
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=h3lium4u&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=4" alt="Trophies"/>
+
+| 🥇 Milestone | Status |
+|---|---|
+| 📄 IEEE Published Author | ✅ Done (×2, Mar 2025) |
+| 📱 Shipped Android App | ✅ QuickFix — Apr 2025 |
+| 🚦 Built a Real-Time CV System | ✅ Wrong-Way Detection — Apr 2025 |
+| 🎓 B.Tech CGPA above 8.5 | ✅ 8.94 / 10 |
+| ☁️ Deploy to Cloud | 🔄 In Progress |
+| 🏅 Win a Hackathon | 🎯 Next Goal |
+
 </div>
 
 ---
